@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakan</h1>
-- 📫 How to reach me **Discord @d0w**
+- 📫 How to reach me Discord @d0w
 
 <p align="left">
 </p>
